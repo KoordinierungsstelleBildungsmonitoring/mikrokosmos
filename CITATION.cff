@@ -1,14 +1,16 @@
 cff-version: 1.2.1
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Tobias
-    given-names: Vetterle
-    orcid: https://orcid.org/0000-0001-7590-2875
- - family-names: André
-    given-names: Förster
-    orcid: https://orcid.org/0000-0002-5451-4598
- - family-names: Koordinierungsstelle
-    given-names: Bildungsmonitoring
-title: KOSMO Mikrokosmos v1.2.1
-version: v1.2.1
+- family-names: "Vetterle"
+  given-names: "Tobias"
+  orcid: "https://orcid.org/0000-0001-7590-2875"
+- family-names: "Förster"
+  given-names: "André"
+  orcid: "https://orcid.org/0000-0002-5451-4598"
+- family-names: "Koordinierungsstelle Bildungsmonitoring"
+  given-names: ""
+title: "KOSMO Mikrokosmos v1.2.1"
+version: 1.2.1
+doi: 10.5281/zenodo.8171810
 date-released: 2023-07-21
+
