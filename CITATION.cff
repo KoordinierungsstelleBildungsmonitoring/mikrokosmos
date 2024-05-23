@@ -7,10 +7,12 @@ authors:
 - family-names: "Förster"
   given-names: "André"
   orcid: "https://orcid.org/0000-0002-5451-4598"
-- family-names: "Koordinierungsstelle Bildungsmonitoring"
+- family-names: "Hinzen"
+  given-names: "Anna"
+- family-names: "Fachstelle kommunales Bildungsmonitoring"
   given-names: ""
-title: "KOSMO Mikrokosmos v2.1.1"
-version: 2.1.1
+title: "KOSMO Mikrokosmos v3.0.0"
+version: 3.0.0
 doi: 10.5281/zenodo.8171809
-date-released: 2023-09-01
+date-released: 2024-05-23
 
